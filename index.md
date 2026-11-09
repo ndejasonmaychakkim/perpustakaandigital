@@ -11,7 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Isi Lumimuut comp](ebook/Isi%20Lumimuut%20comp.pdf) -Nurul Qomariah(2016)
 8. [MKDU4109-M1](ebook/MKDU4109-M1.pdf) -Dra. Hertati, M.Si.(2006)
 9. [Buku Pengantar Ekonomi Islam](ebook/Buku%20Pengantar%20Ekonomi%20Islam.pdf) -Azharsyah Ibrahim(2021)
-10. [UGC PATI](ebook/UGC%20PATI.PDF) -Nouval Dejason Maychakim(2026)
-11. [Buku Pengantar Psikologi](ebook/Buku%20Pengantar%20Psikologi.pdf) -Adnan Achiruddin Saleh(2018)
+10. [Buku Pengantar Psikologi](ebook/Buku%20Pengantar%20Psikologi.pdf) -Adnan Achiruddin Saleh(2018)
+11. [UGC PATI](ebook/UGC%20PATI.PDF) -Nouval Dejason Maychakim(2026)
 ---
 Powered by GitHub Pages
