@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [MKDU4109-M1](MKDU4109-M1.pdf) -Dra. Hertati, M.Si.(2006)
 9. [Buku Pengantar Ekonomi Islam](Buku%20Pengantar%20Ekonomi%20Islam.pdf) -Azharsyah Ibrahim(2021)
 10. [UGC PATI](UGC%20PATI.PDF) -Nouval Dejason Maychakim(2026)
+11. [Buku Pengantar Psikologi](Buku%20Pengantar%20Psikologi.pdf) -Adnan Achiruddin Saleh(2018)
 ---
 Powered by GitHub Pages
